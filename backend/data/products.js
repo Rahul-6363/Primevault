@@ -22,11 +22,11 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/together quote photo.png",
+        url: "/assets/quotes/together quote photo.png",
         altText: "Girls Printed t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed t-Shirts",
       }
      
@@ -51,11 +51,11 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/just u and me.png",
+        url: "/assets/quotes/just u and me.png",
         altText: "Girls Printed t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed t-Shirts",
       },
     
@@ -84,11 +84,11 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/life is to short.png",
+        url: "/assets/quotes/life is to short.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -116,11 +116,11 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/work hard photo.png",
+        url: "/assets/quotes/work hard photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -148,11 +148,11 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/success in revenge photo.png",
+        url: "/assets/quotes/success in revenge photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/black girls t shirt.jpg",
+        url: "/assets/black girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -180,11 +180,11 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/more love less hate.png",
+        url: "/assets/quotes/more love less hate.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -212,11 +212,11 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/enjoy simple things.png",
+        url: "/assets/quotes/enjoy simple things.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -244,15 +244,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/live in the movement photo.png",
+        url: "/assets/designs/live in the movement photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/light purple girls t shirts.jpg",
+        url: "/assets/light purple girls t shirts.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/purple 1.jpg",
+        url: "/assets/purple 1.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -280,15 +280,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/duck design photo.png",
+        url: "/assets/designs/duck design photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -316,15 +316,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/borcelle design photo.png",
+        url: "/assets/designs/borcelle design photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/black girls t shirt.jpg",
+        url: "/assets/black girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -352,15 +352,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/outer space photo.png",
+        url: "/assets/designs/outer space photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -388,15 +388,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/from summit photo.png",
+        url: "/assets/designs/from summit photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -424,15 +424,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/outdoor adventure t shirt.png",
+        url: "/assets/designs/outdoor adventure t shirt.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -460,18 +460,18 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/wonderful.png",
+        url: "/assets/designs/wonderful.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/pink girls t shirt.jpg",
+        url: "/assets/pink girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/pink 1.jpg",
+        url: "/assets/pink 1.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       }, {
-        url: "http://localhost:9000/assets/pink 2.jpg",
+        url: "/assets/pink 2.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -499,15 +499,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/butterfly printed/butterfly 2.png",
+        url: "/assets/butterfly printed/butterfly 2.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -535,15 +535,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/butterfly printed/butterfly printed.png",
+        url: "/assets/butterfly printed/butterfly printed.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -571,15 +571,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/always growing photo.png",
+        url: "/assets/designs/always growing photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -607,23 +607,23 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/borcelle appearel design.png",
+        url: "/assets/designs/borcelle appearel design.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/black girls t shirt.jpg",
+        url: "/assets/black girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/red girls t shirt.png",
+        url: "/assets/red girls t shirt.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/red t shirt 1.jpg",
+        url: "/assets/red t shirt 1.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/red t shirt 2.jpg",
+        url: "/assets/red t shirt 2.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -651,15 +651,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/celebrating freedom design.png",
+        url: "/assets/designs/celebrating freedom design.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -687,15 +687,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/coffee is a mug design.png",
+        url: "/assets/designs/coffee is a mug design.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -723,15 +723,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/follow the rabbit design.png",
+        url: "/assets/designs/follow the rabbit design.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -759,15 +759,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/girls girls design photo.png",
+        url: "/assets/designs/girls girls design photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -795,15 +795,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/good vibes design.png",
+        url: "/assets/designs/good vibes design.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -831,15 +831,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/heartbeats quote design.png",
+        url: "/assets/designs/heartbeats quote design.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -867,15 +867,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/in love we trust design.png",
+        url: "/assets/designs/in love we trust design.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -903,15 +903,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/let your heart bloom 1.png",
+        url: "/assets/designs/let your heart bloom 1.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/designs/let your heart bloom 2.png",
+        url: "/assets/designs/let your heart bloom 2.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -939,15 +939,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/love miss u design.png",
+        url: "/assets/designs/love miss u design.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -975,15 +975,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/simple design photo.png",
+        url: "/assets/designs/simple design photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1011,15 +1011,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/smile everytime design.png",
+        url: "/assets/designs/smile everytime design.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1047,15 +1047,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/up to the stars design.png",
+        url: "/assets/designs/up to the stars design.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1083,15 +1083,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/huge design photo.png",
+        url: "/assets/designs/huge design photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1119,15 +1119,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/hype design photo.png",
+        url: "/assets/designs/hype design photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1155,15 +1155,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/new york design photo.png",
+        url: "/assets/designs/new york design photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1191,15 +1191,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/outlook design photo.png",
+        url: "/assets/designs/outlook design photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1227,15 +1227,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/savage studio design photo.png",
+        url: "/assets/designs/savage studio design photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1263,15 +1263,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/push your limit photo.png",
+        url: "/assets/designs/push your limit photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1299,15 +1299,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/shodwe design photo.png",
+        url: "/assets/designs/shodwe design photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1335,15 +1335,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/street style design photo.png",
+        url: "/assets/designs/street style design photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1371,15 +1371,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/zero design photo.png",
+        url: "/assets/designs/zero design photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1407,15 +1407,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/bow design 1.png",
+        url: "/assets/designs/bow design 1.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1443,15 +1443,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/bow design 2.png",
+        url: "/assets/designs/bow design 2.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1479,15 +1479,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/cherry design.png",
+        url: "/assets/designs/cherry design.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1515,15 +1515,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/cherry times design.png",
+        url: "/assets/designs/cherry times design.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1551,15 +1551,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/live love photo 2.png",
+        url: "/assets/quotes/live love photo 2.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1587,15 +1587,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/live love photo 1.png",
+        url: "/assets/quotes/live love photo 1.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1623,15 +1623,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/olivia design photo.png",
+        url: "/assets/quotes/olivia design photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1659,15 +1659,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/positive energy photo.png",
+        url: "/assets/quotes/positive energy photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1695,15 +1695,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/dads little girl.png",
+        url: "/assets/quotes/dads little girl.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1731,15 +1731,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/stay alone photo.png",
+        url: "/assets/quotes/stay alone photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1767,15 +1767,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/you are design photo.png",
+        url: "/assets/quotes/you are design photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1803,15 +1803,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/just keep moving design.png",
+        url: "/assets/quotes/just keep moving design.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1839,15 +1839,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/forever alone design.png",
+        url: "/assets/designs/forever alone design.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1875,15 +1875,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/live the dream photo.png",
+        url: "/assets/designs/live the dream photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1911,15 +1911,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/you are enough design.png",
+        url: "/assets/designs/you are enough design.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1947,15 +1947,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/empowered design photo.png",
+        url: "/assets/designs/empowered design photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -1984,15 +1984,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/new york design photo.png",
+        url: "/assets/designs/new york design photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -2021,15 +2021,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/outer space photo.png",
+        url: "/assets/designs/outer space photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -2057,15 +2057,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/shareing is careing design.png",
+        url: "/assets/designs/shareing is careing design.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -2093,15 +2093,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/designs/wonderful.png",
+        url: "/assets/designs/wonderful.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -2129,15 +2129,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/a thankful heart photo.png",
+        url: "/assets/quotes/a thankful heart photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -2165,15 +2165,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/be greatful photo.png",
+        url: "/assets/quotes/be greatful photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -2201,15 +2201,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/eat drink photo.png",
+        url: "/assets/quotes/eat drink photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -2237,15 +2237,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/i am strong photo.png",
+        url: "/assets/quotes/i am strong photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -2273,15 +2273,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/make happiness photo.png",
+        url: "/assets/quotes/make happiness photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -2309,15 +2309,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/thankful photo.png",
+        url: "/assets/quotes/thankful photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -2346,15 +2346,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/quotes/walking in winter photo.png",
+        url: "/assets/quotes/walking in winter photo.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/body colour girls t shirt.jpg",
+        url: "/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "http://localhost:9000/assets/whitefront.png",
+        url: "/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
@@ -2400,15 +2400,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/stop racism photo 1.png",
+        url: "/assets/mens design/stop racism photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/mens design/stop racism photo 2.png",
+        url: "/assets/mens design/stop racism photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens black t shirt2.avif",
+        url: "/assets/t shirt photos/mens black t shirt2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -2439,19 +2439,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/keep it cool photo 1.png",
+        url: "/assets/mens design/keep it cool photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/keep it cool photo 2.png",
+        url: "/assets/mens design/keep it cool photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -2479,19 +2479,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/live love photo.png",
+        url: "/assets/mens design/live love photo.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/live love laugh.png",
+        url: "/assets/mens design/live love laugh.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -2520,16 +2520,16 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/open your mind photo.png",
+        url: "/assets/mens design/open your mind photo.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -2557,15 +2557,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/pray design photo 1.png",
+        url: "/assets/mens design/pray design photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -2594,19 +2594,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/pray design photo 2.png",
+        url: "/assets/mens design/pray design photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/pray design photo 1.png",
+        url: "/assets/mens design/pray design photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -2634,19 +2634,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/samurai photo 1.png",
+        url: "/assets/mens design/samurai photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/samurai photo 2.png",
+        url: "/assets/mens design/samurai photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -2674,19 +2674,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/savage photo 1.png",
+        url: "/assets/mens design/savage photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/savage photo 2 2.png",
+        url: "/assets/mens design/savage photo 2 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -2714,19 +2714,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/simple photo 1.png",
+        url: "/assets/mens design/simple photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/simple photo 2.png",
+        url: "/assets/mens design/simple photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -2754,19 +2754,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/work hard design 1.png",
+        url: "/assets/mens design/work hard design 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/work hard design 2.png",
+        url: "/assets/mens design/work hard design 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -2794,19 +2794,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/work hard design 2.png",
+        url: "/assets/mens design/work hard design 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/work hard design 1.png",
+        url: "/assets/mens design/work hard design 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -2834,19 +2834,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/asault borcelle photo 1.png",
+        url: "/assets/mens design/asault borcelle photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/asault borcelle photo 2.png",
+        url: "/assets/mens design/asault borcelle photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -2875,16 +2875,16 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/black lives photo.png",
+        url: "/assets/mens design/black lives photo.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -2912,19 +2912,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/dream big photo 1.png",
+        url: "/assets/mens design/dream big photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/dream big photo 2.png",
+        url: "/assets/mens design/dream big photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -2952,19 +2952,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/dreams come true photo 1.png",
+        url: "/assets/mens design/dreams come true photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/dreams come true photo 2.png",
+        url: "/assets/mens design/dreams come true photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -2992,19 +2992,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/explore design photo 1.png",
+        url: "/assets/mens design/explore design photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/explore design photo 2.png",
+        url: "/assets/mens design/explore design photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3032,19 +3032,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/forever photo 1.png",
+        url: "/assets/mens design/forever photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/forever photo 2.png",
+        url: "/assets/mens design/forever photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3072,19 +3072,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/keep on surfing photo.png",
+        url: "/assets/mens design/keep on surfing photo.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/work hard design 1.png",
+        url: "/assets/mens design/work hard design 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3112,19 +3112,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/learning never ends photo 1.png",
+        url: "/assets/mens design/learning never ends photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/learning never ends photo 2.png",
+        url: "/assets/mens design/learning never ends photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3152,19 +3152,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/life is photo 1.png",
+        url: "/assets/mens design/life is photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/life is photo 2.png",
+        url: "/assets/mens design/life is photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3192,19 +3192,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/life is short photo 1.png",
+        url: "/assets/mens design/life is short photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/life is short photo 2.png",
+        url: "/assets/mens design/life is short photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3232,19 +3232,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/make things photo 1.png",
+        url: "/assets/mens design/make things photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/make things photo 2.png",
+        url: "/assets/mens design/make things photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3272,16 +3272,16 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/make your photo.png",
+        url: "/assets/mens design/make your photo.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3309,19 +3309,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/positive vibe photo 1.png",
+        url: "/assets/mens design/positive vibe photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/positive vibe photo 2.png",
+        url: "/assets/mens design/positive vibe photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3350,19 +3350,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/smile photo 1.png",
+        url: "/assets/mens design/smile photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/smile photo 2.png",
+        url: "/assets/mens design/smile photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3391,19 +3391,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/view deisgn photo 1.png",
+        url: "/assets/mens design/view deisgn photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/view deisgn photo 2.png",
+        url: "/assets/mens design/view deisgn photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3431,16 +3431,16 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/without gym photo.png",
+        url: "/assets/mens design/without gym photo.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3468,19 +3468,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/you have the power photo 1.png",
+        url: "/assets/mens design/you have the power photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/you have the power photo 2.png",
+        url: "/assets/mens design/you have the power photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3508,15 +3508,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/positive photo 1.png",
+        url: "/assets/mens design/positive photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/mens design/positive photo 2.png",
+        url: "/assets/mens design/positive photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens white t shirt 2.avif",
+        url: "/assets/t shirt photos/mens white t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3544,15 +3544,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/raceing photo 1.png",
+        url: "/mens design/raceing photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/mens design/raceing photo 2.png",
+        url: "/assets/mens design/raceing photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens white t shirt 2.avif",
+        url: "/assets/t shirt photos/mens white t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3580,15 +3580,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/in full bloom photo.png",
+        url: "/assets/mens design/in full bloom photo.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/mockups/mens  white t shirt mockup.avif",
+        url: "/assets/mockups/mens  white t shirt mockup.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens white t shirt 2.avif",
+        url: "/assets/t shirt photos/mens white t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3616,15 +3616,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/stay alone photo 1.png",
+        url: "/assets/mens design/stay alone photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/mens design/stay alone photo 2.png",
+        url: "/assets/mens design/stay alone photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens black t shirt2.avif",
+        url: "/assets/t shirt photos/mens black t shirt2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3653,15 +3653,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/moto design photo 1.png",
+        url: "/assets/mens design/moto design photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/mens design/moto design photo 2.png",
+        url: "/assets/mens design/moto design photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens white t shirt 2.avif",
+        url: "/assets/t shirt photos/mens white t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3689,15 +3689,15 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/china design  photo.png",
+        url: "/assets/mens design/china design  photo.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3725,19 +3725,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/be kind photo 1.png",
+        url: "/assets/mens design/be kind photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/be kind photo 2.png",
+        url: "/assets/mens design/be kind photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3765,19 +3765,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/chills and thrills 2.png",
+        url: "/assets/mens design/chills and thrills 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/chills and thrills 1.png",
+        url: "/assets/mens design/chills and thrills 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3806,19 +3806,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/good vibes black 1.png",
+        url: "/assets/mens design/good vibes black 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/good vibes black 2.png",
+        url: "/assets/mens design/good vibes black 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3847,19 +3847,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/good vibes photo 1.png",
+        url: "/assets/mens design/good vibes photo 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/good vibes photo 2.png",
+        url: "/assets/mens design/good vibes photo 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3888,19 +3888,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/good vibes white 1.png",
+        url: "/assets/mens design/good vibes white 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/good vibes white 2.png",
+        url: "/assets/mens design/good vibes white 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3929,19 +3929,19 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mens design/good vibes yellow 1.png",
+        url: "/assets/mens design/good vibes yellow 1.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
        {
-        url: "http://localhost:9000/assets/mens design/good vibes yellow 2.png",
+        url: "/assets/mens design/good vibes yellow 2.png",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 1.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
       {
-        url: "http://localhost:9000/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
+        url: "/assets/t shirt photos/mens dark blue colour t shirt 2.avif",
         altText: "mens  Quotes Printed Cotton LooseFit / Oversize  t-Shirts GIRL-T-0054",
       },
     ],
@@ -3975,7 +3975,7 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mugs/really heart photo.png",
+        url: "/assets/mugs/really heart photo.png",
         altText: "Print and Pour Best Top Quality Mugs MUG-N-0001",
       },
       
@@ -4004,7 +4004,7 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mugs/be you photo.png",
+        url: "/assets/mugs/be you photo.png",
         altText: "Print and Pour Best Top Quality Mugs MUG-N-0002",
       },
       
@@ -4033,7 +4033,7 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mugs/never give up photo.png",
+        url: "/assets/mugs/never give up photo.png",
         altText: "Print and Pour Best Top Quality Mugs MUG-N-0003",
       },
       
@@ -4063,7 +4063,7 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mugs/be you photo.png",
+        url: "/assets/mugs/be you photo.png",
         altText: "Print and Pour Best Top Quality Mugs MUG-N-0004",
       },
       
@@ -4092,7 +4092,7 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mugs/the best photo.png",
+        url: "/assets/mugs/the best photo.png",
         altText: "Print and Pour Best Top Quality Mugs MUG-N-0005",
       },
       
@@ -4122,7 +4122,7 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mugs/gentalman photo.png",
+        url: "/assets/mugs/gentalman photo.png",
         altText: "Print and Pour Best Top Quality Mugs MUG-N-0006",
       },
       
@@ -4151,7 +4151,7 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mugs/always loving.png",
+        url: "/assets/mugs/always loving.png",
         altText: "Print and Pour Best Top Quality Mugs MUG-N-0007",
       },
       
@@ -4180,7 +4180,7 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mugs/but first coffee photo.png",
+        url: "/assets/mugs/but first coffee photo.png",
         altText: "Print and Pour Best Top Quality Mugs MUG-N-0008",
       },
       
@@ -4209,7 +4209,7 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mugs/infinite power photo.png",
+        url: "/assets/mugs/infinite power photo.png",
         altText: "Print and Pour Best Top Quality Mugs MUG-N-0009",
       },
       
@@ -4238,7 +4238,7 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mugs/dont quit photo.png",
+        url: "/assets/mugs/dont quit photo.png",
         altText: "Print and Pour Best Top Quality Mugs MUG-N-0010",
       },
       
@@ -4267,7 +4267,7 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mugs/happiness photo.png",
+        url: "/assets/mugs/happiness photo.png",
         altText: "Print and Pour Best Top Quality Mugs MUG-N-0011",
       },
       
@@ -4296,7 +4296,7 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mugs/positive energy photo.png",
+        url: "/assets/mugs/positive energy photo.png",
         altText: "Print and Pour Best Top Quality Mugs MUG-N-0012",
       },
       
@@ -4325,7 +4325,7 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mugs/life looks photo.png",
+        url: "/assets/mugs/life looks photo.png",
         altText: "Print and Pour Best Top Quality Mugs MUG-N-0013",
       },
       
@@ -4354,7 +4354,7 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mugs/my hobby photo.png",
+        url: "/assets/mugs/my hobby photo.png",
         altText: "Print and Pour Best Top Quality Mugs MUG-N-0014",
       },
       
@@ -4383,7 +4383,7 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mugs/make me photo.png",
+        url: "/assets/mugs/make me photo.png",
         altText: "Print and Pour Best Top Quality Mugs MUG-N-0015",
       },
       
@@ -4412,7 +4412,7 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mugs/need chai photo.png",
+        url: "/assets/mugs/need chai photo.png",
         altText: "Print and Pour Best Top Quality Mugs MUG-N-0016",
       },
       
@@ -4441,7 +4441,7 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mugs/peace love design.png",
+        url: "/assets/mugs/peace love design.png",
         altText: "Print and Pour Best Top Quality Mugs MUG-N-0017",
       },
       
@@ -4470,7 +4470,7 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mugs/quit talkin photo.png",
+        url: "/assets/mugs/quit talkin photo.png",
         altText: "Print and Pour Best Top Quality Mugs MUG-N-0018",
       }
       
@@ -4499,7 +4499,7 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mugs/the best photo.png",
+        url: "/assets/mugs/the best photo.png",
         altText: "Print and Pour Best Top Quality Mugs MUG-N-0019",
       },
       
@@ -4528,7 +4528,7 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "http://localhost:9000/assets/mugs/tommorow will photo.png",
+        url: "/assets/mugs/tommorow will photo.png",
         altText: "Print and Pour Best Top Quality Mugs MUG-N-0020",
       },
       
