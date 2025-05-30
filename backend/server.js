@@ -29,7 +29,8 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 // Serve the public/assets folder
-app.use('/assets', express.static('assets'));
+app.use('/assets', express.static('public/assets'));
+
 
 dotenv.config();
 
