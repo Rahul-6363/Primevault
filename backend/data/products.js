@@ -21,16 +21,11 @@ const products = [
     material: "100% Cotton",
     gender: "Women",
     images: [
-      {
-        url: "/assets/quotes/together quote photo.png",
-        altText: "Girls Printed t-Shirts",
-      },
-      {
-        url: "/assets/whitefront.png",
-        altText: "Girls Printed t-Shirts",
-      }
-     
-    ], 
+  {
+    url: "https:/primevault-nahg.vercel.app/assets/quotes/together-quote-photo.png",
+    altText: "Girls Printed t-Shirts",
+  }
+], 
     rating: 4.5,
     numReviews: 12,
   },
