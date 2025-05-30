@@ -22,7 +22,7 @@ const products = [
     gender: "Women",
     images: [
   {
-    url: "https://res.cloudinary.com/dd5ew4imn/assets/quotes/together-quote-photo.png",
+    url: "https://res.cloudinary.com/your-cloud-name/image/upload/v1234567890/assets/quotes/together-quote-photo.png",
     altText: "Girls Printed t-Shirts",
   }
 ], 
