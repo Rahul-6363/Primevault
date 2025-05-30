@@ -22,11 +22,11 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "/assets/quotes/together quote photo.png",
+        url: "https://primevault-nahg.vercel.app/assets/quotes/together quote photo.png",
         altText: "Girls Printed t-Shirts",
       },
       {
-        url: "/assets/whitefront.png",
+        url: "https://primevault-nahg.vercel.app/assets/whitefront.png",
         altText: "Girls Printed t-Shirts",
       }
      
