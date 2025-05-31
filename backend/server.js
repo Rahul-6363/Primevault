@@ -32,7 +32,7 @@ app.use(cors());
 app.use("/assets", express.static(path.join(__dirname, "public/assets")));
 
 const corsOptions = {
-  origin: "https://primevault-6chd-bkom5ari9-rahuls-projects-bbd320f9.vercel.app", // Your frontend domain (Vercel URL)
+  origin: "process.env.FRONTEND_URL", // Your frontend domain (Vercel URL)
   methods: ["GET", "POST"], // Allow these HTTP methods
   allowedHeaders: ["Content-Type", "Authorization"] // Allowed headers for requests
 };
