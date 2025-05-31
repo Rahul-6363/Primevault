@@ -1,5 +1,5 @@
 const express = require("express");
-const cors = require('cors');
+const cors = require("cors");
 const dotenv = require("dotenv");
 const connectDB = require('./config/db');
 const userRoutes = require("./routes/userRoutes");
@@ -27,13 +27,10 @@ const path = require('path');
 
 const app = express();
 app.use(express.json());
-
+app.use(cors());
 // Serve the public/assets folder
 app.use('/assets', express.static('public/assets'));
-// Use CORS middleware
-app.use(cors({
-  origin: 'https://primevault-p548.vercel.app', // Your frontend domain
-}));
+
 
 dotenv.config();
 
@@ -80,10 +77,5 @@ app.get('/', (req, res) => {
   res.send('Hello from Express on Vercel!');
 });
 
-// API route
-app.get('/api/products/best-seller', (req, res) => {
-  // Your code to fetch best-seller products
-  res.json({ data: 'Best seller products data' });
-});
 
 module.exports = app; 
