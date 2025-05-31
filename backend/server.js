@@ -13,7 +13,7 @@ const adminRoutes = require("./routes/adminRoutes");
 const productAdminRoutes = require("./routes/productAdminRoutes");
 const adminOrderRoutes = require("./routes/adminOrderRoutes");
 const resellerRoutes = require('./routes/resellerRoutes');
-const cors = require("cors");
+
 
 const bodyParser = require('body-parser');
 const path = require('path');
@@ -27,15 +27,11 @@ const path = require('path');
 
 const app = express();
 app.use(express.json());
-app.use(cors());
+
 // Serve the public/assets folder
 app.use("/assets", express.static(path.join(__dirname, "public/assets")));
 
-const corsOptions = {
-  origin: "process.env.FRONTEND_URL", // Your frontend domain (Vercel URL)
-  methods: ["GET", "POST"], // Allow these HTTP methods
-  allowedHeaders: ["Content-Type", "Authorization"] // Allowed headers for requests
-};
+
 
 dotenv.config();
 
