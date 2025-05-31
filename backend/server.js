@@ -13,7 +13,7 @@ const adminRoutes = require("./routes/adminRoutes");
 const productAdminRoutes = require("./routes/productAdminRoutes");
 const adminOrderRoutes = require("./routes/adminOrderRoutes");
 const resellerRoutes = require('./routes/resellerRoutes');
-
+const cors = require("cors");
 
 const bodyParser = require('body-parser');
 const path = require('path');
@@ -31,7 +31,11 @@ app.use(cors());
 // Serve the public/assets folder
 app.use("/assets", express.static(path.join(__dirname, "public/assets")));
 
-
+const corsOptions = {
+  origin: "https://primevault-6chd.vercel.app", // Your frontend domain (Vercel URL)
+  methods: ["GET", "POST"], // Allow these HTTP methods
+  allowedHeaders: ["Content-Type", "Authorization"] // Allowed headers for requests
+};
 
 dotenv.config();
 
@@ -61,7 +65,7 @@ app.use("/api/upload", uploadRoutes);
 app.use("/api/", subscribeRoute);
 app.use('/api/reseller', resellerRoutes);
 
-
+app.use(cors(corsOptions));
 
 // Admin
 app.use("/api/admin/users", adminRoutes);
