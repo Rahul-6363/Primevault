@@ -1,5 +1,5 @@
 const express = require("express");
-const cors = require("cors");
+
 const dotenv = require("dotenv");
 const connectDB = require('./config/db');
 const userRoutes = require("./routes/userRoutes");
@@ -29,8 +29,7 @@ const app = express();
 app.use(express.json());
 
 // Serve the public/assets folder
-app.use("/assets", express.static(path.join(__dirname, "public/assets")));
-
+app.use('/assets', express.static('public/assets'));
 
 
 dotenv.config();
@@ -61,7 +60,7 @@ app.use("/api/upload", uploadRoutes);
 app.use("/api/", subscribeRoute);
 app.use('/api/reseller', resellerRoutes);
 
-app.use(cors(corsOptions));
+
 
 // Admin
 app.use("/api/admin/users", adminRoutes);
