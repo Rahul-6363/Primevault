@@ -22,7 +22,7 @@ const products = [
     gender: "Women",
     images: [
   {
-    url: "/assets/quotes/together-quote-photo.png",
+    url: "https://primevault.vercel.app/assets/quotes/together-quote-photo.png",
     altText: "Girls Printed t-Shirts",
   }
 ], 
@@ -46,11 +46,11 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "/assets/quotes/just u and me.png",
+        url: "https://primevault.vercel.app/assets/quotes/just u and me.png",
         altText: "Girls Printed t-Shirts",
       },
       {
-        url: "/assets/body colour girls t shirt.jpg",
+        url: "https://primevault.vercel.app/assets/body colour girls t shirt.jpg",
         altText: "Girls Printed t-Shirts",
       },
     
@@ -79,11 +79,11 @@ const products = [
     Sleeves: "Short sleeves",
     images: [
       {
-        url: "/assets/quotes/life is to short.png",
+        url: "https://primevault.vercel.app/assets/quotes/life is to short.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
       {
-        url: "/assets/whitefront.png",
+        url: "https://primevault.vercel.app/assets/whitefront.png",
         altText: "Girls Printed Cotton Sweat t-Shirts",
       },
     ],
