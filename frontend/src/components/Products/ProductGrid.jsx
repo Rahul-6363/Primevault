@@ -16,7 +16,7 @@ const ProductGrid = ({products , loading, error}) => {
             <Link key={index} to={`/product/${product._id}`} className='block' >
                 <div className='bg-white p-2rounded-lg '>
                     <div className='w-full h-96 mb-4'>
-                        <img  src={product.images[0].url} 
+                        <img  src={product.images[0]} 
                         alt={product.images[0].altText  || product.name} 
                         className='w-full h-full object-cover rounded-lg'
                         />
