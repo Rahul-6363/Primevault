@@ -11,7 +11,7 @@ import { fetchProductsByFilters } from '../redux/slices/productsSlice'
 import Brand from '../components/Layout/Brand'
 import Name1 from '../components/Layout/Name1'
 import ShopByCategory from '../components/Layout/ShopByCategory'
-import Reseller from '../components/Layout/Reseller'
+
 
 
 
@@ -50,7 +50,7 @@ const Home = () => {
       <Name1 />
       <ShopByCategory />
       <FeatureSection />
-      <Reseller />
+    
      
      
       <NewArrivals />

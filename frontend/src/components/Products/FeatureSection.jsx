@@ -12,11 +12,11 @@ const FeatureSection = () => {
 
                 </div>
                 <h4 className='tracking-tighter mb-2'>
-                    FREE SHIPPING
+                    SECURE PAYMENTS
 
                 </h4>
                 <p className='text-gray-600 text-sm tracking-tighter'>
-                     Shipping Available All Over India
+                     Shop with confidence! we offer safe and secure payments options for a hassel free checkout
                 </p>
 
             </div>
@@ -47,11 +47,11 @@ const FeatureSection = () => {
 
                 </div>
                 <h4 className='tracking-tighter mb-2'>
-                   SECURE CHECKOUT
+                   ALL INDIA SHIPPING
 
                 </h4>
                 <p className='text-gray-600 text-sm tracking-tighter'>
-                   100% Safe And Secured Checkout 
+                   We deliver your favorite T - shirts anywhere in india with fast and reliable shipping
                 </p>
 
             </div>
