@@ -83,7 +83,7 @@ const Checkout = () => {
 
         localStorage.removeItem("cart"); // Clear localStorage
 
-        window.location.href = "orders/${orderId}"; // Redirect to order success page
+        window.location.href = "/my-orders"; // Redirect to order success page
       }
     } catch (err) {
       console.error("Order failed", err);
