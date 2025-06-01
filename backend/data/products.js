@@ -22,7 +22,7 @@ const products = [
     gender: "Women",
     images: [
   {
-    url: "/assets/quotes/together-quote-photo.png",
+    url: "/assets/quotes/together quote photo.png",
     altText: "Girls Printed t-Shirts",
   }
 ], 
