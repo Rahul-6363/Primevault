@@ -24,7 +24,7 @@ const Checkout = () => {
 
   const { cart } = useSelector((state) => state.cart);
   const { user } = useSelector((state) => state.auth);
-  const dispatch = useDispatch(); // ✅ Initialize dispatch
+  const dispatch = useDispatch();
 
   const handleChange = (e) => {
     setFormData((prev) => ({
@@ -33,10 +33,9 @@ const Checkout = () => {
     }));
   };
 
-  // Dispatch the action
   const handleClearCart = () => {
     dispatch(clearCartInDB({ userId: user?._id, guestId: localStorage.getItem("guestId") }));
-    dispatch(clearCart()); // Clear cart in Redux
+    dispatch(clearCart());
   };
 
   const placeOrder = async () => {
@@ -77,13 +76,9 @@ const Checkout = () => {
 
       if (res.status === 200) {
         alert("Order Placed Successfully!");
-
-        // Clear Redux and LocalStorage cart after successful order
-        handleClearCart(); // ✅ Clear Redux and DB cart
-
-        localStorage.removeItem("cart"); // Clear localStorage
-
-        window.location.href = "/my-orders"; // Redirect to order success page
+        handleClearCart();
+        localStorage.removeItem("cart");
+        window.location.href = "/my-orders";
       }
     } catch (err) {
       console.error("Order failed", err);
@@ -92,7 +87,6 @@ const Checkout = () => {
 
   return (
     <div className='grid grid-cols-1 lg:grid-cols-2 gap-8 max-w-7xl mx-auto py-10 px-6 tracking-tighter'>
-      {/* Left Section - Form */}
       <div className='bg-white rounded-lg p-6'>
         <h2 className="text-xl text-center font-bold mb-4">Checkout</h2>
 
@@ -168,11 +162,9 @@ const Checkout = () => {
           <p>Total Payable: <strong>₹{cart.totalPrice?.toLocaleString()}</strong></p>
         </div>
 
-        {/* Payment Methods Section - Added Above Place Order */}
         <div className="mt-4 mb-6">
           <h4 className="font-semibold text-lg mb-4">Payment Methods</h4>
           <div className="flex flex-col gap-4">
-            {/* Payment Method Containers (Stacked vertically) */}
             <div className="flex items-center justify-start border p-2 rounded-md w-full">
               <img src={phonePeImg} alt="PhonePe" className="w-8 h-8 object-contain mr-2" />
               <span className="text-sm">PhonePe</span>
@@ -191,7 +183,6 @@ const Checkout = () => {
               <span className="text-sm ml-2 text-red-600">Currently Unavailable</span>
             </div>
 
-            {/* Cash on Delivery */}
             <div className="flex items-center justify-start border p-2 rounded-md w-full">
               <img src={codImg} alt="Cash on Delivery" className="w-8 h-8 object-contain mr-2" />
               <span className="text-sm">COD</span>
@@ -208,7 +199,6 @@ const Checkout = () => {
         </button>
       </div>
 
-      {/* Right Section - Order Summary */}
       <div className='bg-gray-50 p-6 rounded-lg'>
         <h3 className='text-lg mb-4'>Order Summary</h3>
 
@@ -251,7 +241,6 @@ const Checkout = () => {
         </div>
 
       </div>
-
     </div>
   );
 };
