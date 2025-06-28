@@ -30,7 +30,7 @@ import AdminResellers from './components/Admin/AdminResellers';
 import OrderConfirmationPage from './pages/OrderConfirmationPage';
 import ContactUs from './pages/ContactUs';
 import AboutUs from './pages/AboutUs';
-
+import { Analytics } from '@vercel/analytics/react';
 
 
 
@@ -56,6 +56,7 @@ const App = () => {
         <Route path="/order-confirmation/:orderId" element={<OrderConfirmationPage />}/>
         <Route path="/contactus" element={<ContactUs  />} />
         <Route path="/aboutus" element={<AboutUs  />} />
+         <Analytics />
 
 
 
