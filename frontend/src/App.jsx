@@ -56,8 +56,7 @@ const App = () => {
         <Route path="/order-confirmation/:orderId" element={<OrderConfirmationPage />}/>
         <Route path="/contactus" element={<ContactUs  />} />
         <Route path="/aboutus" element={<AboutUs  />} />
-         <Analytics />
-
+        
 
 
 
@@ -85,6 +84,8 @@ const App = () => {
       
     
     </Routes>
+     <Analytics />
+
     </BrowserRouter>
     </Provider>
   );
