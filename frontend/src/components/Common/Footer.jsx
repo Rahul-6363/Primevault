@@ -47,7 +47,7 @@ const Footer = () => {
             <h3 className='text-lg text-gray-800 mb-4 font-bold'>Support</h3>
             <ul className='space-y-2 text-gray-600 '>
                 <li>
-                    <Link to="#"  className='hover:text-gray-600 transition-colors'>Contact Us</Link>
+                    <Link to="/contactus"  className='hover:text-gray-600 transition-colors'>Contact Us</Link>
                 </li>
 
                 <li>
@@ -99,7 +99,7 @@ const Footer = () => {
     </div>
     {/* Footer bottom */}
     <div className='container mx-auto mt-12 px-4 lg:px-0 border-t border-gray-200 pt-6'>
-        <p className='text-gray-500 text-sm tracking-tighter text-center'>© 2025, CompilteTab. All Rights Reserved.</p>
+        <p className='text-gray-500 text-sm tracking-tighter text-center'>© 2025, PrimeVault. All Rights Reserved.</p>
 
     </div>
 

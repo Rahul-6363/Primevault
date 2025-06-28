@@ -22,7 +22,7 @@ const OrderDetailsPage = () => {
 
   const orderedDate = new Date(orderDetails.createdAt);
   const estimatedDelivery = new Date(orderedDate);
-  estimatedDelivery.setDate(orderedDate.getDate() + 7);
+  estimatedDelivery.setDate(orderedDate.getDate() + 8);
 
   return (
     <div className='max-w-7xl mx-auto p-4 sm:p-6'>
@@ -34,7 +34,7 @@ const OrderDetailsPage = () => {
     <div className="checkmark draw"></div>
   </div>
   <h3 className="text-xl font-semibold mt-4 text-green-700">Order Confirmed</h3>
-  <p className="text-gray-700 text-sm">Thank you for shopping with <span className="font-bold text-green-800">Printzon</span>!</p>
+  <p className="text-gray-700 text-sm">Thank you for shopping with <span className="font-bold text-green-800">Prime Vault!</span>!</p>
 </div>
 
 
