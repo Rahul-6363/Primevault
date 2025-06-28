@@ -51,7 +51,7 @@ const Footer = () => {
                 </li>
 
                 <li>
-                    <Link to="#"  className='hover:text-gray-600 transition-colors'>About Us</Link>
+                    <Link to="/aboutus"  className='hover:text-gray-600 transition-colors'>About Us</Link>
                 </li>
 
                 <li>
@@ -92,7 +92,7 @@ const Footer = () => {
             <p className='text-gray-500 font-bold'>Call Us </p>
             <p>
                 <FiPhoneCall className='inline-block mr-2' />
-                0123-456-789
+                +91 8618089515
             </p>
         </div>
 

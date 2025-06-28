@@ -9,8 +9,8 @@ const products = [
     description:
       "Spread positivity and unity with this stylish and comfortable printed T-shirt for girls. Featuring the uplifting quote We Are All in This Together in a trendy, eye-catching design, this tee is perfect for everyday wear, school, or casual outings. Made from soft, breathable cotton fabric, it ensures all-day comfort while making a bold statement of kindness and togetherness. Pair it with jeans, skirts, or shorts for a cool and confident look that inspires others .",
 
-    price: 499,
-    discountPrice: 499,
+    price: 599,
+    discountPrice: 599,
     countInStock: 20,
     sku: "GIRL-T-0001",
     category: "Top Wear",
@@ -62,8 +62,8 @@ const products = [
     name: "Girls Quotes Printed Cotton Sweat t-Shirts GIRL-T-0003",
     description:
       "Let her wear her thoughts with confidence! Our girls' printed T-shirts feature a collection of powerful, fun, and inspiring quotes designed to motivate, uplift, and express personality. Made from soft, breathable cotton fabric, these tees combine comfort with meaning — perfect for school, playdates, or casual outings. Whether it’s a message of kindness, strength, or self-love, each T-shirt lets her make a stylish statement without saying a word.",
-    price: 459,
-    discountPrice: 459,
+    price: 559,
+    discountPrice: 559,
     countInStock: 15,
     sku: "GIRL-T-0003",
     category: "Top Wear",
@@ -126,8 +126,8 @@ const products = [
     name: "Girls Quotes Printed Cotton Sweat t-Shirts GIRL-T-0005",
     description:
       "Let her wear her thoughts with confidence! Our girls' printed T-shirts feature a collection of powerful, fun, and inspiring quotes designed to motivate, uplift, and express personality. Made from soft, breathable cotton fabric, these tees combine comfort with meaning — perfect for school, playdates, or casual outings. Whether it’s a message of kindness, strength, or self-love, each T-shirt lets her make a stylish statement without saying a word.",
-    price: 499,
-    discountPrice: 499,
+    price: 599,
+    discountPrice: 599,
     countInStock: 15,
     sku: "GIRL-T-0005",
     category: "Top Wear",

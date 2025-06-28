@@ -29,6 +29,7 @@ import ResellerRegister from './pages/ResellerRegister';
 import AdminResellers from './components/Admin/AdminResellers';
 import OrderConfirmationPage from './pages/OrderConfirmationPage';
 import ContactUs from './pages/ContactUs';
+import AboutUs from './pages/AboutUs';
 
 
 
@@ -54,6 +55,8 @@ const App = () => {
         <Route path='/reseller-register' element={<ResellerRegister />}       />
         <Route path="/order-confirmation/:orderId" element={<OrderConfirmationPage />}/>
         <Route path="/contactus" element={<ContactUs  />} />
+        <Route path="/aboutus" element={<AboutUs  />} />
+
 
 
 

@@ -9,19 +9,18 @@ const ContactUs = () => {
       <div className="space-y-6 text-gray-700 text-lg">
         <div className="flex items-center gap-4">
           <Phone className="text-blue-600" />
-          <span>+91 86182 11582</span>
+          <span>+91 8618089515</span>
         </div>
 
         <div className="flex items-center gap-4">
           <Mail className="text-blue-600" />
-          <span>madhuraprakash435@gmail.com</span>
+          <span>primevault2006@gmail.com</span>
         </div>
 
         <div className="flex items-start gap-4">
           <MapPin className="text-blue-600 mt-1" />
           <span>
-            #03, First Main Road, <br />
-            Near Deena Seva School, <br />
+            #03,<br /> <br />
             Kamalanagar, Bangalore - 560079
           </span>
         </div>
