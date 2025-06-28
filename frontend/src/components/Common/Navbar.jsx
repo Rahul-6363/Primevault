@@ -31,7 +31,8 @@ const Navbar = () => {
 
   return (
     <>
-    <nav  className='container mx-auto flex items-center justify-between py-1 px-3'>
+    <nav className='sticky top-0 z-50 bg-white shadow-sm container mx-auto flex items-center justify-between py-1 px-3'>
+
         {/* left -logo */}
         <div>
         <Link to='/'>
