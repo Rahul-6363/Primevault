@@ -3,45 +3,34 @@ import { Link } from 'react-router-dom';
 
 const ProductGrid = ({ products, loading, error }) => {
   if (loading) {
-    return <p className="text-center text-gray-600">Loading...</p>;
+    return <p>Loading...</p>;
   }
 
   if (error) {
-    return <p className="text-center text-red-500">Error: {error}</p>;
-  }
-
-  // Debug: log what products is
-  console.log("products is:", products);
-
-  // Ensure products is always an array
-  if (!Array.isArray(products) || products.length === 0) {
-    return <p className="text-center text-gray-500">No products to display.</p>;
+    return <p>Error: {error}</p>;
   }
 
   return (
     <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6'>
       {products.map((product, index) => (
         <Link key={index} to={`/product/${product._id}`} className='block'>
-          <div className='bg-white p-4 rounded-2xl shadow-md h-full flex flex-col justify-between'>
-            
-            {/* Image Section */}
-            <div className='w-full h-100 mb-4'>
+          <div className='bg-white p-4 rounded-2xl shadow-md flex flex-col justify-between'>
+
+            {/* ✅ Image wrapper with fixed height */}
+            <div className='w-full mb-4'>
               <img
-                src={product?.images?.[0]?.url || '/fallback-image.jpg'}
-                alt={product?.images?.[0]?.altText || product?.name || 'Product image'}
-                className='w-full h-full object-cover rounded-lg'
+                src={product.images[0]?.url || '/placeholder.png'}
+                alt={product.images[0]?.altText || product.name}
+                className='w-full h-[400px] object-cover rounded-lg'
               />
             </div>
 
-            {/* Product Info */}
+            {/* ✅ Product info */}
             <div>
-              <h3 className='text-base font-medium mb-1 truncate'>
-                {product?.name || 'Unnamed Product'}
-              </h3>
-              <p className='text-gray-600 font-semibold text-sm'>
-                ₹{product?.price ?? 'N/A'}
-              </p>
+              <h3 className='text-base font-medium mb-1 truncate'>{product.name}</h3>
+              <p className='text-gray-600 font-semibold text-sm'>₹{product.price}</p>
             </div>
+
           </div>
         </Link>
       ))}
