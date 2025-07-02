@@ -166,108 +166,97 @@
 // @route GET /api/products
 // @desc get all products with optional query filters
 // @access Public
-router.get("/",async ( req, res) =>{
-   try {
-       const {collection,
-           size, 
-           color,
-           gender, 
-           minPrice,
-           maxPrice,
-           sortBy,
-           search,
-           category,
-           material, 
-           brand,
-           limit,
+router.get("/", async (req, res) => {
+  try {
+    const {
+      collection,
+      size,
+      color,
+      gender,
+      minPrice,
+      maxPrice,
+      sortBy,
+      search,
+      category,
+      material,
+      brand,
+      limit,
+    } = req.query;
 
-       } = req.query;
+    let query = {};
 
-       let query = {};
+    // filter logic
+    if (collection && collection.toLowerCase() !== "all") {
+      query.collections = collection;
+    }
 
+    if (category && category.toLowerCase() !== "all") {
+      query.category = { $regex: category, $options: "i" }; // ✅ Safe regex match
+    }
 
+    if (material) {
+      query.material = { $in: material.split(",") };
+    }
 
-       // filter logic
-       if(collection && collection.toLocaleLowerCase()  !== "all"){
-           query.collections = collection;
-       }
+    if (brand) {
+      query.brand = { $in: brand.split(",") };
+    }
 
-       if(category && category.toLocaleLowerCase()  !== "all"){
-           query.category = category;
-       }
+    if (size) {
+      query.sizes = { $in: size.split(",") };
+    }
 
-       if(material){
-           query.material = {$in: material.split(",")};
-       }
+    if (color) {
+      query.colors = { $in: [color] };
+    }
 
-       if(brand){
-           query.brand = {$in: brand.split(",")};
-       }
+    if (gender) {
+      query.gender = gender;
+    }
 
-       if(size){
-           query.sizes = {$in: size.split(",")};
-       }
+    if (minPrice || maxPrice) {
+      query.price = {};
+      if (minPrice) query.price.$gte = Number(minPrice);
+      if (maxPrice) query.price.$lte = Number(maxPrice);
+    }
 
-       if(color) {
-           query.colors = {$in: [color]};
-       }
+    if (search) {
+      query.$or = [
+        { name: { $regex: search, $options: "i" } },
+        { description: { $regex: search, $options: "i" } },
+      ];
+    }
 
-       if( gender) {
-           query.gender =  gender;
-       }
+    // sort logic
+    let sort = {};
+    if (sortBy) {
+      switch (sortBy) {
+        case "priceAsc":
+          sort = { price: 1 };
+          break;
+        case "priceDesc":
+          sort = { price: -1 };
+          break;
+        case "popularity":
+          sort = { rating: -1 };
+          break;
+        default:
+          break;
+      }
+    }
 
-       if (minPrice || maxPrice){
-           query.price = {};
-           if(minPrice) query.price.$gte = Number(minPrice);
-           if(maxPrice) query.price.$lte = Number(maxPrice);
-       }
+    // fetch products and apply sorting and limit
+    const products = await Product.find(query)
+      .sort(sort)
+      .limit(Number(limit) || 0);
 
-       if(search) {
-           query.$or = [
-               {name: {$regex: search, $options: "i"}},  {description: {$regex: search, $options: "i"}}
-           ];
-       }
-
-       // sort logic
-       let sort= {};
-       if(sortBy){
-           switch (sortBy) {
-               case "priceAsc":
-                   sort = {price: 1};
-                   
-                   break;
-
-               case "PriceDesc":
-                  sort = {price: -1};
-                  break;
-
-               case "popularity": 
-                 sort = {rateing: -1};
-                 break;
-           
-               default: 
-                   break;
-           }
-       }
-
-
-       // fetch products and apply  sorting and limit
-
-       let products = await Product.find(query).sort(sort).limit(Number(limit) || 0);
-       res.json(products);
-
-
-
-
-
-
-
-
-   } catch (error) {
-       console.error(error);
-       res.status(500).send("Server Error")
-   }
+    res.json(products);
+  } catch (error) {
+    console.error("❌ Error in GET /api/products:", error);
+    res.status(500).json({ message: "Internal Server Error" });
+  }
 });
+
 
 // @route GET /api/products/best-seller
 // @desc Retrive the product with highest rating
