@@ -1,5 +1,5 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
+import React from 'react';
+import { Link } from 'react-router-dom';
 
 const ProductGrid = ({ products, loading, error }) => {
   if (loading) {
@@ -10,17 +10,20 @@ const ProductGrid = ({ products, loading, error }) => {
     return <p>Error: {error}</p>;
   }
 
+  // ✅ SAFETY: Ensure `products` is always an array
+  const safeProducts = Array.isArray(products) ? products : [];
+
   return (
     <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6'>
-      {products.map((product, index) => (
+      {safeProducts.map((product, index) => (
         <Link key={index} to={`/product/${product._id}`} className='block'>
-          <div className='bg-white p-4 rounded-2xl shadow-md h-full flex flex-col justify-between'>
-            
-            
-            <div className='w-full h-100 mb-4'>
+          <div className='bg-white p-4 rounded-2xl shadow-md flex flex-col justify-between'>
+
+            {/* ✅ Taller image container */}
+            <div className='w-full h-[420px] mb-4'>
               <img
-                src={product.images[0].url}
-                alt={product.images[0].altText || product.name}
+                src={product.images?.[0]?.url || '/placeholder.png'}
+                alt={product.images?.[0]?.altText || product.name}
                 className='w-full h-full object-cover rounded-lg'
               />
             </div>
@@ -29,6 +32,7 @@ const ProductGrid = ({ products, loading, error }) => {
               <h3 className='text-base font-medium mb-1 truncate'>{product.name}</h3>
               <p className='text-gray-600 font-semibold text-sm'>₹{product.price}</p>
             </div>
+
           </div>
         </Link>
       ))}
