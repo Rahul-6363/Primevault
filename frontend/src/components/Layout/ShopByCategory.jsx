@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 // Import your images
-import womensCollectionImage from "../../assets/girlscategory.png";
+import womensCollectionImage from "../../assets/cord model 1.png";
 import mensCollectionImage from "../../assets/mens category.png";
 import mugscollection from "../../assets/mug hero image.png";
 

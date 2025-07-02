@@ -31,7 +31,7 @@ const seedData = async () => {
       console.log("✅ Admin user created successfully!");
     }
 
-    // Clear existing products before seeding
+    // ✅ Clear existing products before seeding
     await Product.deleteMany();
     console.log("✅ Existing products cleared.");
 
@@ -46,8 +46,7 @@ const seedData = async () => {
     await Product.insertMany(sampleProducts);
     console.log("✅ Product data seeded successfully!");
 
-    // Optionally, you can seed Cart data or any other model here.
-
+    // Exit after seeding
     process.exit();
   } catch (error) {
     console.error("❌ Error seeding the data:", error);

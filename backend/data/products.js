@@ -6,7 +6,7 @@
 const products = [
 
    {
-    name: "AVASA CORD SET Red and White , syntetic Cotton GIRL-T-0067",
+    name: "AVASA CORD SET Red and White  syntetic Cotton GIRL-T-0067",
     description:
       "Elevate your everyday style with this stunning Avasa Cord Set in a beautiful Red and White Mix. Crafted for comfort and elegance, this set features a coordinated top and bottom made from premium-quality fabric that feels as good as it looks. The rich red hue blended with crisp white accents creates a vibrant yet graceful look, perfect for casual outings, festive gatherings, or relaxed office wear.",
 
@@ -24,11 +24,11 @@ const products = [
     images: [
   {
     url: "/assets/kurtas/model 1.png",
-    altText: "AVASA CORD SET Red and White , syntetic Cotton GIRL-T-0067",
+    altText: "AVASA CORD SET Red and White  syntetic Cotton GIRL-T-0067",
   },
   {
     url: "/assets/kurtas/model 1 photo 2.png",
-    altText: "AVASA CORD SET Red and White , syntetic Cotton GIRL-T-0067",
+    altText: "AVASA CORD SET Red and White  syntetic Cotton GIRL-T-0067",
   }
 ], 
     rating: 4.9,
@@ -36,7 +36,7 @@ const products = [
   },
 
   {
-    name: "AVASA CORD SET Green and White , syntetic Cotton GIRL-T-0068",
+    name: "AVASA CORD SET Green and White  syntetic Cotton GIRL-T-0068",
     description:
       "Elevate your everyday style with this stunning Avasa Cord Set in a beautiful Red and White Mix. Crafted for comfort and elegance, this set features a coordinated top and bottom made from premium-quality fabric that feels as good as it looks. The rich red hue blended with crisp white accents creates a vibrant yet graceful look, perfect for casual outings, festive gatherings, or relaxed office wear.",
 
@@ -54,11 +54,11 @@ const products = [
     images: [
   {
     url: "/assets/kurtas/model 3.png",
-    altText: "AVASA CORD SET Red and White , syntetic Cotton GIRL-T-0067",
+    altText: "AVASA CORD SET Red and White  syntetic Cotton GIRL-T-0067",
   },
   {
     url: "/assets/kurtas/model 3 photo 2.png",
-    altText: "AVASA CORD SET Red and White , syntetic Cotton GIRL-T-0067",
+    altText: "AVASA CORD SET Red and White  syntetic Cotton GIRL-T-0067",
   }
 ], 
     rating: 4.5,
@@ -66,7 +66,7 @@ const products = [
   },
 
   {
-    name: "AVASA KURTAS , silk Cotton GIRL-T-0069",
+    name: "AVASA KURTAS  silk Cotton GIRL-T-0069",
     description:
       "Add timeless elegance to your wardrobe with this beautiful Red and White Mix Kurta from Avasa. Designed with a modern touch and traditional charm, this kurta is perfect for every occasion – be it a festive celebration, casual day out, or even a classy office look.",
 
@@ -84,11 +84,11 @@ const products = [
     images: [
   {
     url: "/assets/kurtas/model 5.png",
-    altText: "AVASA KURTAS , silk Cotton GIRL-T-0069",
+    altText: "AVASA KURTAS silk Cotton GIRL-T-0069",
   },
   {
     url: "/assets/kurtas/model 5 photo 2.png",
-    altText: "AVASA KURTAS , silk Cotton GIRL-T-0069",
+    altText: "AVASA KURTAS  silk Cotton GIRL-T-0069",
   }
 ], 
     rating: 4.5,
@@ -96,7 +96,7 @@ const products = [
   },
 
   {
-    name: "AVASA KURTAS , silk Cotton GIRL-T-0070",
+    name: "AVASA KURTAS  silk Cotton GIRL-T-0070",
     description:
       "Add timeless elegance to your wardrobe with this beautiful Red and White Mix Kurta from Avasa. Designed with a modern touch and traditional charm, this kurta is perfect for every occasion – be it a festive celebration, casual day out, or even a classy office look.",
 
@@ -114,11 +114,11 @@ const products = [
     images: [
   {
     url: "/assets/kurtas/model 4.png",
-    altText: "AVASA KURTAS , silk Cotton GIRL-T-0069",
+    altText: "AVASA KURTAS  silk Cotton GIRL-T-0069",
   },
   {
     url: "/assets/kurtas/model 4 photo 2.png",
-    altText: "AVASA KURTAS , silk Cotton GIRL-T-0069",
+    altText: "AVASA KURTAS  silk Cotton GIRL-T-0069",
   }
 ], 
     rating: 4.5,
@@ -126,7 +126,7 @@ const products = [
   },
 
   {
-    name: "AVASA KURTAS , silk Cotton GIRL-T-0071",
+    name: "AVASA KURTAS  silk Cotton GIRL-T-0071",
     description:
       "Add timeless elegance to your wardrobe with this beautiful Red and White Mix Kurta from Avasa. Designed with a modern touch and traditional charm, this kurta is perfect for every occasion – be it a festive celebration, casual day out, or even a classy office look.",
 
@@ -144,7 +144,7 @@ const products = [
     images: [
   {
     url: "/assets/kurtas/model 2.png",
-    altText: "AVASA KURTAS , silk Cotton GIRL-T-0069",
+    altText: "AVASA KURTAS silk Cotton GIRL-T-0069",
   },
   
 ], 
@@ -153,7 +153,7 @@ const products = [
   },
 
    {
-    name: "WOMENS KURTAS , 100% Cotton GIRL-T-0072",
+    name: "WOMENS KURTAS  100% Cotton GIRL-T-0072",
     description:
       "Add timeless elegance to your wardrobe with this beautiful Red and White Mix Kurta from Avasa. Designed with a modern touch and traditional charm, this kurta is perfect for every occasion – be it a festive celebration, casual day out, or even a classy office look.",
 
@@ -171,11 +171,11 @@ const products = [
     images: [
   {
     url: "/assets/kurtas/model 6.png",
-    altText: "WOMENS KURTAS , 100% Cotton GIRL-T-0072",
+    altText: "WOMENS KURTAS  100% Cotton GIRL-T-0072",
   },
   {
     url: "/assets/kurtas/model 6 photo 5.png",
-    altText: "WOMENS KURTAS , 100% Cotton GIRL-T-0072",
+    altText: "WOMENS KURTAS  100% Cotton GIRL-T-0072",
   }
 ], 
     rating: 4.5,
@@ -183,7 +183,7 @@ const products = [
   },
 
   {
-    name: "WOMENS KURTAS , 100% Cotton GIRL-T-0073",
+    name: "WOMENS KURTAS  100% Cotton GIRL-T-0073",
     description:
       "Add timeless elegance to your wardrobe with this beautiful Red and White Mix Kurta from Avasa. Designed with a modern touch and traditional charm, this kurta is perfect for every occasion – be it a festive celebration, casual day out, or even a classy office look.",
 
@@ -201,7 +201,7 @@ const products = [
     images: [
   {
     url: "/assets/kurtas/model 7.png",
-    altText: "WOMENS KURTAS , 100% Cotton GIRL-T-0072",
+    altText: "WOMENS KURTAS  100% Cotton GIRL-T-0072",
   },
   {
     url: "/assets/kurtas/model 7 photo 5.png",
