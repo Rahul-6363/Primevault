@@ -30,7 +30,7 @@ import AdminResellers from './components/Admin/AdminResellers';
 import OrderConfirmationPage from './pages/OrderConfirmationPage';
 import ContactUs from './pages/ContactUs';
 import AboutUs from './pages/AboutUs';
-
+import { Analytics } from '@vercel/analytics/react';
 
 
 
@@ -88,7 +88,7 @@ const App = () => {
   
 
     </BrowserRouter>
-    
+    <Analytics />
     </Provider>
   );
 };
